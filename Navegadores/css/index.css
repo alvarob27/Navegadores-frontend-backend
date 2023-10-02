@@ -1,0 +1,29 @@
+@media (min-width:320px){
+    #imgLogo{
+        width: 150px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    #imgMosaic{
+        width: 250px;
+        padding-top: 15px;
+        padding-bottom: 15px; 
+    }
+}
+
+@media (min-width:1024px){
+    .imagen-coorporativa{
+        min-width: 30%;
+    }
+
+    #imgLogo{
+        width: 250px;
+    }
+
+    #imgMosaic{
+        width: 350px;
+    }
+}
+
+
